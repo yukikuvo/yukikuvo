@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+## My name is Yuki, and I love JavaScript. Now I'm working on Vala GTK apps
+## You can look for my portfolio: [use this link](https://yukikuvo.github.io/yukistory/)
 
-<!--
-**yukikuvo/yukikuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Favorite programming languages:
+> Java + JavaScript
+> Python
+> Vala + C
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Favorite technologies:
+> Bootstrap
+> PWA web-app
+> Node JS
